@@ -5,4 +5,4 @@ The coocox website is down so you need to get it from somewhere else:(that "some
 Precompiled bin file in usb_synth/MIDI_USB_Synth/Debug/bin/
 Video of it:https://youtu.be/Z8oxVrtKEWA
 Schematic:https://easyeda.com/elpro/stm32f103cb-synth
-More info on:
+More info on:https://mitxela.com/forum/topic/stm32f103cb-synth-a-powerful-synth
